@@ -43,8 +43,6 @@ android {
 dependencies{
     implementation(platform("com.google.firebase:firebase-bom:33.4.0"))
     implementation("com.google.firebase:firebase-analytics")
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" // Use the latest stable version
-    implementation "org.jetbrains.kotlin:kotlin-parcelize-runtime:1.6.10" // This may be needed
 }
 
 flutter {
