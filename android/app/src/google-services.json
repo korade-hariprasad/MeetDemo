@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453493263800",
+    "project_id": "meet-demo-8ed1a",
+    "storage_bucket": "meet-demo-8ed1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453493263800:android:e9189723bc250c73f1d34d",
+        "android_client_info": {
+          "package_name": "meet.demo.meet_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRxRYGMNvuYYB4BeWihMEwlSNs84stdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
